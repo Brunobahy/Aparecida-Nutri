@@ -1,0 +1,23 @@
+:root{
+--font-principal:'Kanit', sans-serif;
+}
+
+table{
+    margin-bottom: 1.5em;
+}
+
+th{
+    background: #333;
+    color: #FDFDFD;
+    font-size: 1.2em;
+    border: none;
+    vertical-align: middle;
+    font-family: var(--font-principal);
+    font-weight: 500;
+}
+
+td{
+    font-size: 1.2em;
+    font-family: var(--font-principal);
+
+}
