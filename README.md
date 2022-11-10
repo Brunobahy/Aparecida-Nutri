@@ -6,7 +6,7 @@ Projeto realizado durante o curso "JavaScript: programando na linguagem da web" 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Aparecida-Nutricionista**
-| :label: Tecnologias | HTML, CSS e JavaScript
+| :label: Tecnologias | JavaScript
 | :rocket: URL         |https://brunobahy.github.io/Aparecida-Nutri/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
