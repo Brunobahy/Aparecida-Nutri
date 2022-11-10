@@ -10,7 +10,7 @@ Projeto realizado durante o curso "JavaScript: programando na linguagem da web" 
 | :rocket: URL         |https://brunobahy.github.io/Aparecida-Nutri/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-[Captura de tela 2022-11-10 101033](https://user-images.githubusercontent.com/110056385/201100430-a89e799e-4fec-4720-8b66-6ddedb089d2e.png)
+(https://user-images.githubusercontent.com/110056385/201100430-a89e799e-4fec-4720-8b66-6ddedb089d2e.png)
 
 ## Detalhes do projeto
 
